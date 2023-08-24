@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martin90102
 - 👀 I’m interested in underwater SLAM
-- 🌱 I’m currently learning how to realize mapping
-- 💞️ I’m looking to collaborate on coding? I'm a rookie for this field 
+- 🌱 I’m currently learning how to use multi-sensor to realize localization task
+- 💞️ I’m looking to collaborate on coding?
 - 📫 How to reach me 2023721260@qq.com
 
 <!---
